@@ -1,4 +1,4 @@
-package com.theory.java;
+package com.theory.java.STATIC;
 
 import java.util.ArrayList;
 
@@ -61,7 +61,7 @@ public class Static_classes {
      * оно состоит из имени класса родителя и имени вложенного класса. Общий вид этого имени такой:
      */
 
-    com.theory.java.Static_classes.Point; // КлассРодитель.ВложенныйКласс.
+    Static_classes.Point; // КлассРодитель.ВложенныйКласс.
 
     /** Если вложенный класс имеет свой вложенный класс, их имена просто склеиваются через точку.*/
 
@@ -146,4 +146,5 @@ class Point {
         points.add(point);
     }
 }
+// https://javarush.ru/groups/posts/2181-vlozhennihe-vnutrennie-klassih доделать доки по этой статье.
 

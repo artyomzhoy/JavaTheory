@@ -1,4 +1,4 @@
-package com.theory.java;
+package com.theory.java.STATIC;
 
 @1.Статические методы
 
